@@ -25,6 +25,12 @@ public class QandAProgram {
 //		double averageMaleHeightDifference = userHeight - 1.75;
 //		double averageFemaleHeightDifference = userHeight - 1.35;
 		
+		// TOKEN (single user input int, string...)
+		System.out.println("What is your name?");
+		// next line reads all the tokens
+		String fullName = scanner.nextLine();
+		System.out.println("Your name is " + fullName);
+		
 	}
 
 }
