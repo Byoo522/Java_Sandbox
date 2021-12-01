@@ -24,6 +24,10 @@ public class HeightScanner {
 		} else {
 			System.out.println("Height Accepted");
 		}
+		
+		
+		// STRINGS
+		System.out.println("pasta".equals("pasta"));
 
 	}
 
