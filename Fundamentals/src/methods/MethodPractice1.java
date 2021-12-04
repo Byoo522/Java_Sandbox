@@ -14,4 +14,8 @@ public class MethodPractice1 {
 	public static void foo(int a, double b, String c) {
 		System.out.println(a + b + c); // 62.5caramel
 	}
+	
+	public static void bar() {
+		
+	}
 }
